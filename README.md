@@ -1,4 +1,4 @@
-The Puzzle of Economic Development
+The Puzzle of Economic Development (Machine Learning Analysis)
 
 This study investigates the relationship between Human Development Index (HDI) indicators
 and Gross National Income (GNI) per capita, exploring the impact of geography on
