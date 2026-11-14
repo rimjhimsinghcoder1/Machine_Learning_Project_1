@@ -9,7 +9,6 @@
 
 An economic data analysis of whether Human Development Index (HDI) indicators, health and education, explain a country's Gross National Income (GNI) per capita, and whether geography shapes development. The analysis covers 191 countries using UNDP data for 2021.
 
-**Published paper:** Singh, R. (2024). *The Puzzle of Economic Development.* International Journal of Humanities Social Science and Management (IJHSSM), 4(6), 252–259. [DOI: 10.5281/zenodo.23866917](https://doi.org/10.5281/zenodo.23866917)
 
 ---
 
@@ -178,6 +177,7 @@ jupyter notebook hdi_analysis.ipynb
 - **Omitted factors:** institutions, inequality, trade and natural resources are not included.
 
 ---
+**Published paper:** Singh, R. (2024). *The Puzzle of Economic Development.* International Journal of Humanities Social Science and Management (IJHSSM), 4(6), 252–259. [DOI: 10.5281/zenodo.23866917](https://doi.org/10.5281/zenodo.23866917)
 
 ## Citation
 
