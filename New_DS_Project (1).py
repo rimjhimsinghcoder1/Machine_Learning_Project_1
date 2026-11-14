@@ -250,9 +250,9 @@ fig = plt.figure(figsize=(8, 8))
 ax = fig.add_subplot(111, projection='3d')
 ax.scatter(pc_df['PC1'], pc_df['PC2'], pc_df['PC3'], c='b', marker='o')
 
-ax.set_xlabel('Principal Component 5')
+ax.set_xlabel('Principal Component 1')
 ax.set_ylabel('Principal Component 2')
-ax.set_zlabel('Principal Component 4')
+ax.set_zlabel('Principal Component 3')
 ax.set_title('3D Scatter Plot of Principal Components')
 
 plt.show()
